@@ -1,5 +1,5 @@
 # File-Encoder
-Encodes any txt or .py file
+Encodes any .py file
 # How to encode your file
 ```
 from main import *
