@@ -1,5 +1,8 @@
 # File-Encoder
 Encodes any .py file
+
+# Warning: This encoder doesn't obfuscate your code, doesn't make it smaller and doesn't make your file easier to read.
+
 # How to encode your file
 ```
 from main import *
